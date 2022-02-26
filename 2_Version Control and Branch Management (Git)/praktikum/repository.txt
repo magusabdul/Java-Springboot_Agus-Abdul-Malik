@@ -1,1 +1,11 @@
+Task
+1. Buat sebuah repository di github
+2. Implementasikan penggunaan branching yang terdiri dari master, development, featureA, dan featureB
+3. Implementasikan Git untuk push, pull, stash, merge
+4. Implementasikan sebuah penanganan conflict di branch development ketika setelah merge dari branch featureA lalu merge dari branch featureB (Conflict bisa terjadi jika kedua branch mengerjakan di file dan line code yang sama.
+5. Gunakan merge no fast forword
+
+
+Link Praktikum :
+
 https://github.com/magusabdul/belajar-github
