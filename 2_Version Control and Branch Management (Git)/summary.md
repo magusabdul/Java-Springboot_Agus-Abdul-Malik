@@ -10,19 +10,37 @@ Dalam materi ini, mempelajari:
 Versioning Merupakan pelacakan dan/atau mengatur versi dari source code program.
 Untuk melacak sebuah perubahan dapat dengan berbagai alat, yaitu: Version Control System(VCS), Source Code Manager(SCM), Revision Control System(RCS).
 Sejarah VCS
-- single user
+- Single user
     1. pada tahun 1972 hanya dapat digunakan di unix dengan system SCCS
     2. pada tahun 1982 dapat cross platform dan hanya untuk teks dengan system RCS
-  
+
+- Centralized
+    1. CVS - 1986 File focus
+    2. Perforce - 1995
+    3. Subversion - 2000 - track directory structure
+    4. Microsoft Team Foundation Server - 2005
+
+- Distributed
+    1. Git - 2005
+    2. Mercurial - 2005
+    3. Bazaar - 2005
+
 
 ### Git
-Proses concurrent pada Go dapat dilakukan dengan menggunakan
-bahasa pemrograman Go, bukan yang lain ya.
-Karena ini hanya contoh, jadi penjelasan tidak tepat.
-Ikuti pola penulisan dalam dokumen ini!
-Tetapi jangan meniru isinya, karena ini hanya contoh.
+Salah satu version control system populer yang digunakan para developer untuk mengembangkan software secara bersama-bersama
+
+Git dibuat terdistribusi bukan tersentralisasi
+Git DIBUAT OLEH
+Linus Torvalds (2005) - Linux Kernel
+https://github.com/torvalds/linux
+
+Dengan adanya git, setiap developer dapat berinteraksi/berkolaborasi dengan developer lain untuk mengembangkan aplikasi dengan baik.
+Git dapat digunakan di server maupun di lokal, jadi ketika server tidak dapat diakses atau sedang tidak ada jaringan, developer dapat tetap mengembangakan aplikasi.
 
 ### Github
+Github adalah sebuah server git publik yang dapat digunakan oleh developer secara gratis maupun berbayar.
+dalam github terdapat beberapa perintah atau fitur-fitur yang dapat digunakan seperti : GIT INIT, CLONE, CONFIG, STAGING AREA,  STATUS, ADD, COMMIT, DIFF, STASH, LOG, CHECKOUT, RESET, PUSH, FETCH, PULL, BRANCHING, MERGE, PULL REQUEST, dan masih banyak lagi.
+
 
 ## Task
 ### 1. Buat sebuah repository di github
