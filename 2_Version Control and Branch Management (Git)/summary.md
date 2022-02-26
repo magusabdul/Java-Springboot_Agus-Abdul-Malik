@@ -26,11 +26,11 @@ Tetapi jangan meniru isinya, karena ini hanya contoh.
 
 ## Task
 ### 1. Buat sebuah repository di github
-Output
+OUTPUT : 
 ![Buat Repository](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/Membuat-repository.jpeg)
 
 ### 2. Implementasikan penggunaan branching yang terdiri dari master, development, featureA, dan featureB
-Output
+OUTPUT : 
 - Branch Master
 ![Branch Master](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/Branch-master.png)
 
@@ -45,7 +45,24 @@ Output
 
 ![All Branch](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/git-all-branch.png)
 ### 3. Implementasikan Git untuk push, pull, stash, merge
+- Git Push
+![Git Push](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/Git-push.png)
+
+- Git Pull
+![Git Pull](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/Git-pull.png)
+
+- Git Stash
+![Git Stash](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/Git-stash.png)
+![Git Stash apply](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/Git-stash-apply.png)
+![Git stash fixing C D](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/Git-stash-apply-working-tree.png)
+
+- Git Merge
+![Git Merge No Fast Forward](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/Git-merge-no-fast%20forward.png)
 
 ### 4. Implementasikan sebuah penanganan conflict di branch development ketika setelah merge dari branch featureA lalu merge dari branch featureB (Conflict bisa terjadi jika kedua branch mengerjakan di file dan line code yang sama.
+OUTPUT : 
+![]()
 
 ### 5. Gunakan merge no fast forword
+OUTPUT : 
+![Git Merge No Fast Forward](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/Git-merge-no-fast%20forward.png)
