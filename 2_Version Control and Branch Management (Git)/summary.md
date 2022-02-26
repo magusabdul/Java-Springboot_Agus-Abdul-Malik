@@ -53,15 +53,30 @@ OUTPUT :
 
 - Git Stash
 ![Git Stash](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/Git-stash.png)
+Git Stash apply
 ![Git Stash apply](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/Git-stash-apply.png)
+Git stash fixing C D
 ![Git stash fixing C D](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/Git-stash-apply-working-tree.png)
 
 - Git Merge
+Git Merge FastForward
+![Git Merge FastForward](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/Git-Merge-fastforward.png)
+Git Merge No Fast Forward
 ![Git Merge No Fast Forward](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/Git-merge-no-fast%20forward.png)
 
 ### 4. Implementasikan sebuah penanganan conflict di branch development ketika setelah merge dari branch featureA lalu merge dari branch featureB (Conflict bisa terjadi jika kedua branch mengerjakan di file dan line code yang sama.
 OUTPUT : 
-![]()
+Git Merge FastForward
+![Git Merge FastForward](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/Git-Merge-fastforward.png)
+Git Merge No Fast Forward
+![Git Merge No Fast Forward](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/Git-merge-no-fast%20forward.png)
+Git Stash
+![Git Stash](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/Git-stash.png)
+Git Stash apply
+![Git Stash apply](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/Git-stash-apply.png)
+Git stash fixing C D
+![Git stash fixing C D](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/Git-stash-apply-working-tree.png)
+
 
 ### 5. Gunakan merge no fast forword
 OUTPUT : 
