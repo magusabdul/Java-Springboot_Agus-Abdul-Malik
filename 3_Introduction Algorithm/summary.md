@@ -90,17 +90,22 @@ https://whimsical.com/ / https://files.digi46.id/index.php/login
 
 Sample Test Cases
 1. input : 3
+
 Output : Bilangan Prima
 ![Input 3](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/hitung-bilangan-prima-input3.PNG)
+
 2. Input : 7
+
 Output : Bilangan Prima
 ![Input 7](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/hitung-bilangan-prima-input7.PNG)
 
 3. Input : 10
+
 Output : Bukan Bilangan Prima
 ![Input 10](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/hitung-bilangan-prima-input10.PNG)
 
 OUTPUT : 
+
 ![Bilangan Prima](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/hitung-bilangan-prima.PNG)
 
 ### 2. Problem lampu dan tombol
@@ -121,12 +126,18 @@ https://whimsical.com/ / https://files.digi46.id/index.php/login
 
 contoh
 1. input : 5
+
 output : lampu mati
+
 ![]()
+
 2. input : 4
+
 output : lampu menyala
+
 ![]()
 
 
 OUTPUT :
+
 ![]()
