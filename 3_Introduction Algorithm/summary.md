@@ -46,27 +46,31 @@ Flowchart adalah suatu bagan dengan simbol tertentu yang menggambarkan urutan da
 
 simbol flowchart
 1. mulai/selesai 
-![mulai/selesai]()
+![mulai/selesai](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/mulai-selesai.PNG)
 2. proses/kalkulasi
-![simbol proses/kalkulasi]()
+![simbol proses/kalkulasi](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/proses.PNG)
 3. input/output
-![simbol input/output]()
+![simbol input/output](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/input-output.PNG)
 4. perkondisian
-![simbol perkondisian]()
+![simbol perkondisian](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/kondisi.PNG)
 5. looping
-![simbol looping]()
+![simbol looping](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/looping.PNG)
 
 contoh flowchart
 - Menghitung luas segitiga
-![Flowchart Menghitung luas segitiga]()
+![Flowchart Menghitung luas segitiga](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/hitung-luas-segitiga.PNG)
 merupakan proses yang sequential
 
 - mencetak bilangan faktor
-![Flowchart mencetak bilangan faktor]()
+![Flowchart mencetak bilangan faktor](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/cetak-bilangan-faktor.PNG)
 
 
 ## Task
 ### 1. Problem Bilangan Prima
+Bilangan prima adalah bilangan asli yang lebih besar dari angka 1, uang faktor pembagiannya adalah 1, dan bilangan itu sendiri. 
+2 dan 3 adalah bilangan prima. 4 bukan bilangan prima karena 4 habis di bagi 2. kamu diminta untuk membuat fungsi untuk menentukan 
+bahwa sebuah bilangan termasuk bilangan prima atau tidak.
+
 Buatlah flowchart untuk menentukan bilangan prima menggunakan "
 https://whimsical.com/ / https://files.digi46.id/index.php/login
 
@@ -83,3 +87,28 @@ Output : Bukan Bilangan Prima
 OUTPUT : 
 ![Buat Repository](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/Membuat-repository.jpeg)
 
+### 2. Problem lampu dan tombol
+Terdapat N tombol yang dinomori dari 1 hingga N dan sebuah lampu dalam keadaan mati. apabila tombol ke-i ditekan, keadaan lampu akan 
+berubah (dari mati menjadi menyala, atau sebaliknya) jika N habis dibagi oleh i. apabila masing-masing tombol ditekan tepat sekali, 
+bagaimana keadaan lampu pada akhirnya?
+
+Masukan 
+Sebuah baris berisi sebuah bilangan, yaitu N.
+
+Sebuah baris berisi sebuah bilangan, yaitu N. formay keluaran sebuah baris berisi:
+"lampu mati", apanila keadaan akhir lampu adalah mati
+"lampu menyala", apabila keadaan akhir lampu adalah menyala.
+
+Buatlah flowchart untuk aloritma tersebut menggunakan
+https://whimsical.com/ / https://files.digi46.id/index.php/login
+
+contoh
+input : 5
+output : lampu mati
+
+input : 4
+output : lampu menyala
+
+
+OUTPUT :
+![]()
