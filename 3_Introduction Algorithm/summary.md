@@ -45,23 +45,36 @@ contoh pseuod code
 Flowchart adalah suatu bagan dengan simbol tertentu yang menggambarkan urutan dan hubungan antar proses secara mendetail
 
 simbol flowchart
-1. mulai/selesai 
+1. mulai/selesai
+
 ![mulai/selesai](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/mulai-selesai.PNG)
+
 2. proses/kalkulasi
+
 ![simbol proses/kalkulasi](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/proses.PNG)
+
 3. input/output
+
 ![simbol input/output](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/input-output.PNG)
+
 4. perkondisian
+
 ![simbol perkondisian](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/kondisi.PNG)
+
 5. looping
+
 ![simbol looping](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/looping.PNG)
+
 
 contoh flowchart
 - Menghitung luas segitiga
+
 ![Flowchart Menghitung luas segitiga](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/hitung-luas-segitiga.PNG)
+
 merupakan proses yang sequential
 
 - mencetak bilangan faktor
+
 ![Flowchart mencetak bilangan faktor](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/cetak-bilangan-faktor.PNG)
 
 
@@ -71,21 +84,24 @@ Bilangan prima adalah bilangan asli yang lebih besar dari angka 1, uang faktor p
 2 dan 3 adalah bilangan prima. 4 bukan bilangan prima karena 4 habis di bagi 2. kamu diminta untuk membuat fungsi untuk menentukan 
 bahwa sebuah bilangan termasuk bilangan prima atau tidak.
 
-Buatlah flowchart untuk menentukan bilangan prima menggunakan "
+Buatlah flowchart untuk menentukan bilangan prima menggunakan
+
 https://whimsical.com/ / https://files.digi46.id/index.php/login
 
 Sample Test Cases
 1. input : 3
 Output : Bilangan Prima
-
+![Input 3](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/hitung-bilangan-prima-input3.PNG)
 2. Input : 7
 Output : Bilangan Prima
+![Input 7](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/hitung-bilangan-prima-input7.PNG)
 
 3. Input : 10
 Output : Bukan Bilangan Prima
+![Input 10](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/hitung-bilangan-prima-input10.PNG)
 
 OUTPUT : 
-![Buat Repository](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshots/Membuat-repository.jpeg)
+![Bilangan Prima](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/hitung-bilangan-prima.PNG)
 
 ### 2. Problem lampu dan tombol
 Terdapat N tombol yang dinomori dari 1 hingga N dan sebuah lampu dalam keadaan mati. apabila tombol ke-i ditekan, keadaan lampu akan 
@@ -95,19 +111,21 @@ bagaimana keadaan lampu pada akhirnya?
 Masukan 
 Sebuah baris berisi sebuah bilangan, yaitu N.
 
-Sebuah baris berisi sebuah bilangan, yaitu N. formay keluaran sebuah baris berisi:
-"lampu mati", apanila keadaan akhir lampu adalah mati
+Sebuah baris berisi sebuah bilangan, yaitu N. format keluaran sebuah baris berisi:
+"lampu mati", apabila keadaan akhir lampu adalah mati
 "lampu menyala", apabila keadaan akhir lampu adalah menyala.
 
 Buatlah flowchart untuk aloritma tersebut menggunakan
+
 https://whimsical.com/ / https://files.digi46.id/index.php/login
 
 contoh
-input : 5
+1. input : 5
 output : lampu mati
-
-input : 4
+![]()
+2. input : 4
 output : lampu menyala
+![]()
 
 
 OUTPUT :
