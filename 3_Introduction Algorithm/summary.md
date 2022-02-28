@@ -20,7 +20,7 @@ untuk melakukan pencarian data dalam struktur data untuk mendapatkan nilai terte
 Karakteristik Algoritma
 1. memiliki sebuah batas(awalan akhiran)
 2. intruksi terdefinisi dengan baik
-3. efektif da efisien
+3. efektif dan efisien
 
 Algoritma dasar
 1. Sequential
@@ -129,15 +129,15 @@ contoh
 
 output : lampu mati
 
-![]()
+![Flowchart Lampu dan tombol input 5](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/lampu-dan-tombol-input5.PNG)
 
 2. input : 4
 
 output : lampu menyala
 
-![]()
+![Flowchart Lampu dan tombol input 4](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/lampu-dan-tombol-input4.PNG)
 
 
 OUTPUT :
 
-![]()
+![Flowchart Lampu dan tombol](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/3_Introduction%20Algorithm/screenshots/lampu-dan-tombol.PNG)
