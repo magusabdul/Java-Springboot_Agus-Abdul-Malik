@@ -4,7 +4,7 @@
 Dalam materi ini, mempelajari:
 1. Type data
 2. Variable
-3. 
+3. Operator
 
 ### Type data
 adalah sebuah bentuk-bentuk data
@@ -185,5 +185,18 @@ Output :
 * * * * *
 
 ### 8. Cetak Tabel Perkalian
+Buat program yang memunculkan output seperti contoh di bawah. Input merupakan n bilangan 1 sampai 30. Output merupakan tabel perkalian seperti yang dideskripsikan.
 
+Sample Test Case
 
+Input : 9
+Output : 
+1 2  3  4  5  6  7  8  9
+2 2  6  8  10 11 12 16 18
+3 6  9  12 15 18 21 24 27
+4 8  12 16 28 24 28 32 36
+5 10 15 20 25 30 35 40 45
+6 12 18 24 30 36 42 48 54
+7 14 21 28 35 42 49 56 63
+8 16 24 32 40 48 56 64 72
+9 18 27 36 45 54 63 72 81
