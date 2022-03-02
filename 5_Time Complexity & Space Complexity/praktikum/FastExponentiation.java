@@ -5,13 +5,18 @@ public class FastExponentiation{
       System.out.println(pow(10, 2)); // 100
       System.out.println(pow(2, 5)); // 32
       System.out.println(pow(7, 3));  // 343
+      System.out.println(pow(7, 2)); // 49
    }
    
    static Integer pow(Integer x, Integer n) {
-      
-      return n;
-     
+      int result=1;
+		if(n!=0){
+         int i = 1;
+         while(i <= n){
+            result*=x;
+            i++;
+         }
+      }
+      return result ;
    }
-
 }
-
