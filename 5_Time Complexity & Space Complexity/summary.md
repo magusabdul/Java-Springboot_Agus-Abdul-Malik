@@ -63,7 +63,8 @@ Output: Bilangan Prima
 
 Input: 1500450271
 Output: Bilangan Prima
-***bash
+
+```bash
 public static void main(String[] args) {
    System.out.println(primeNumber(1000000007));
    System.out.println(primeNumber(13));
@@ -75,7 +76,7 @@ public static void main(String[] args) {
 static boolean primeNumber(Integer number) {
   
 }
-***
+```
 
 OUTPUT: 
 
@@ -92,7 +93,7 @@ Output : 8
 Input : x = 7, n = 2
 Output : 49
 
-***bash
+```bash
 public static void main(String[] args) {
    System.out.println(pow(2, 3));  // 8
    System.out.println(pow(5, 3));  // 125
@@ -104,7 +105,7 @@ public static void main(String[] args) {
 static Integer pow(Integer x, Integer n) {
   
 }
-***
+```
 
 OUTPUT: 
 
