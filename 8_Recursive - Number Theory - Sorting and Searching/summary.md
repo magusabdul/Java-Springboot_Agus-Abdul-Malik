@@ -152,7 +152,7 @@ publuc class Sorting {
 ```
 - Bulitins Sort in Java
 sorting yang sudah terdapat pada java saat diinstall
-``bash
+```bash
 import java.util.Arrays;
 
 public class Sorting {
@@ -161,24 +161,27 @@ public class Sorting {
         return elements;
     }
 }
-``
+```
 
 ## Task
 
-### Problem 1 - Prima ke X (Tanpa Recursive)
+### 1. Prima ke X (Tanpa Recursive)
 
 Dalam matematika, bilangan prima adalah bilangan asli yang lebih besar dari angka 1, yang faktor pembaginya adalah 1 dan bilangan itu sendiri. Angka 2 dan 3 adalah bilangan prima. Angka 4 bukan bilangan prima karena 4 bisa dibagi 2. Sepuluh deret bilangan prima yang pertama adalah 2, 3, 5, 7, 11, 13, 17, 19, 23 dan 29.
 
 Buatlah sebuah fungsi bernama primeX yang menampilkan bilangan prima sesuai dengan deret urutannya.
 
 Sample Test Cases
+
 Input: 1
+
 Output: 2
 
 Input: 5
+
 Output: 11
 
-### Problem 2 - Fibonacci (Recursive)
+### 2. Fibonacci (Recursive)
 Dalam matematika, bilangan Fibonacci adalah barisan yang didefinisikan secara rekursif sebagai berikut:
 
 Penjelasan: barisan ini berawal dari 0 dan 1, kemudian angka berikutnya didapat dengan cara menambahkan kedua bilangan yang berurutan sebelumnya. Dengan aturan ini, maka barisan bilangan Fibonacci yang pertama adalah:
@@ -188,11 +191,15 @@ Penjelasan: barisan ini berawal dari 0 dan 1, kemudian angka berikutnya didapat 
 Diberi nomor n, cetak Nomor Fibonacci ke-n.
 
 
-### Problem 3 - Find Min and Max Number
+### 3. Find Min and Max Number
 Buatlah sebuah program untuk mencari bilangan minimum dan maksimum dari sebuah array, dan di problem ini kamu tidak boleh melakukan pengurutan terhadap array. Dan munculkan index dari bilangan minimum dan maksimum tersebut.
+
 Sample Test Cases
+
 Input: [5, 7, 4, -2, -1, 8]
+
 Output: min: -2 index: 3 max: 8 index: 5
 
 Input: [2, -5, -4, 22, 7, 7]
+
 Output: min: min: -5 index: 1 max: 22 index: 3
