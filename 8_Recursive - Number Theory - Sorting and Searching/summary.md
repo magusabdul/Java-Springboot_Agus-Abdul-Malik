@@ -4,7 +4,7 @@
 Dalam materi ini, mempelajari:
 1. Recursive
 2. Number theory
-3. 
+3. Searching dan Sorting
 
 ### Recursive
 adalah situasi ketika membuat sebuah function yag ternyata pemanggilan function diri sendiri
@@ -76,7 +76,7 @@ public class Algorithm{
 ```
 
 
-### Seaching dan Sorting
+### Searching dan Sorting
 1. Seaching
 Proses yang bertujuan untuk menemukan sebuah data dari kumpulan data
 
