@@ -1,5 +1,7 @@
 import java.util.Arrays;
+import java.util.LinkedHashSet;
 import java.util.List;
+import java.util.Set;
 import java.util.ArrayList;
 
 /* 
@@ -17,22 +19,17 @@ public class Task1 {
     public static void main(String[] args) {
         List<String> nameOne = new ArrayList<>(Arrays.asList("kazuya", "jin", "lee"));
         List<String> nameTwo = new ArrayList<>(Arrays.asList("kazuya", "feng"));
-
         System.out.println(mergeArray(nameOne, nameTwo));
+        List<String> nameThree = new ArrayList<>(Arrays.asList("lee", "jin"));
+        List<String> nameFour = new ArrayList<>(Arrays.asList("kazuya", "panda"));
+        System.out.println(mergeArray(nameThree, nameFour));
     }
 
     static String mergeArray(List<String> nameOne, List<String> nameTwo) {
-        List<String> res = new ArrayList<>();
+        Set<String>res = new LinkedHashSet<String>();
+        res.addAll(nameOne);
+        res.addAll(nameTwo);
         
-        for(int i = 0; i > nameOne.size()-1 ; i++){
-            String satu = nameOne.get(i);
-            String dua = nameTwo.get(i);
-            String[] result={};
-            
-            if(satu == dua){
-                
-            }
-        }
-        return nameOne.toString() + nameTwo.toString();
+        return res.toString();
     }
 }
