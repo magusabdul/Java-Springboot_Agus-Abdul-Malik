@@ -115,10 +115,8 @@ Contoh: mongoDB
 
 ### Database NoSQL (MongoDB)
 Objektif
-    - Mampu untuk menggunakan Basic Operation MongoDB
-
-    - Mampu menggunakan agregasi di Mongo DB
-
+- Mampu untuk menggunakan Basic Operation MongoDB
+- Mampu menggunakan agregasi di Mongo DB
 Submit Your Answer:\
 Introduction\
 Pada tantangan kali ini kita akan mengimplementasikan basic operation pada MongoDB menggunakan perintah kurang lebih sama dengan perintah tugas relational db. Buat database digital_outlet!
