@@ -17,5 +17,14 @@ Explanation: The numbers at index 0 and 2 add up to 11: 2+9=11
 */
 
 public class Task3 {
-    
+    public static void main(String[] args) {
+        int[] ke1 = new int[] {1,2,3,4,6};
+        pairWithTargetSum(ke1, 1, 3);
+        int[] ke2 = new int[] {2,5,9,11};
+        pairWithTargetSum(ke2, 0, 2);
+    }
+    public static void pairWithTargetSum(int[] input, int i, int j) {
+        int hasil = input[i]+input[j];
+        System.out.println(input[i]+" + "+input[j]+" = "+hasil);
+    }
 }
