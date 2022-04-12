@@ -122,29 +122,30 @@ Maka akan mencetak:\
 Hasil 8
 
 Lihat demo berikut!
-    ```bash
-    ++++++++++++ CALCULATOR ++++++++++++
-    99: Exit
-    1: Open Calculator Masukkan pilihan anda:
+```bash
+++++++++++++ CALCULATOR ++++++++++++
+99: Exit
+1: Open Calculator 
+Masukkan pilihan anda:
 
-    ++++++++++++ CALCULATOR ++++++++++++
-    Masukkan Value 1 : 5
-    Masukkan Value 2 : 3
+++++++++++++ CALCULATOR ++++++++++++
+Masukkan Value 1 : 5
+Masukkan Value 2 : 3
 
-    ++++++++++++ CALCULATOR ++++++++++++
-    Please Enter Calculation Operation:
-    1. Add Value
-    2. Sub Value
-    3. Multiply Value
-    4. Divide Value
+++++++++++++ CALCULATOR ++++++++++++
+Please Enter Calculation Operation:
+1. Add Value
+2. Sub Value
+3. Multiply Value
+4. Divide Value
 
-    ++++++++++++ CALCULATOR ++++++++++++
-    Pilihan Anda : 1
+++++++++++++ CALCULATOR ++++++++++++
+Pilihan Anda : 1
 
-    ++++++++++++ CALCULATOR ++++++++++++
-    Pilihan Anda : 1
-    Hasil : 8
-    ```
+++++++++++++ CALCULATOR ++++++++++++
+Pilihan Anda : 1
+Hasil : 8
+```
 
 ### Challenge 3 - Inheritance & Polymorphism (Vehicles)
 Vehicles -> Bikes\
