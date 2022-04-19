@@ -97,7 +97,7 @@ JPA Order by
 ### CHALLENGE 1
 Ada sebuah desain database table disamping
 dari skema database tersebut, konversikan ke dalama JPA Relationship
-![database]()
+![database](https://github.com/magusabdul/Java-Springboot_Agus-Abdul-Malik/blob/master/25_Implementation%20Relational(1o1%20-%201oMany%20-%20ManyoMany)/screenshots/database.PNG)
 
 ### CHALLENGE 2
 Berdasarkan dari relationship diatas buatlah beberapa query dengan JPA seperti berikut:
