@@ -10,6 +10,8 @@ spring initializr
 start.spring.io 
 adalah sebuah tools untuk membuat sebuah project spirng baru
 
+Depedency 
+
 Spring web
 sebagai web server pada project spring
 
@@ -21,6 +23,19 @@ berguna untuk menghubungkan spring data jpa ke database postegresql
 
 Lombok
 untuk membantu mengbangun kode dasar, misal: agar tidak menulis seluruh setter getter  pada kelas tersebut
+
+
+akan terdapat 
+
+konfigurasi postgresql
+```properties
+spring.datasource.url=jdbc:postgresql://localhost:5432/springsql
+spring.datasource.username=magusabdul
+spring.datasource.password=1945
+
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+```
 
 
 
